@@ -1,0 +1,13 @@
+{
+    "name": "HOFbotCl",
+    "version": "2.4.5",
+    "description": "A test for my botting skills",
+    "main": "bot.js",
+    "author": "Joseph Wang",
+    "dependencies": {
+        "discord.js": "^11.4.2",
+        "dotenv": "^7.0.0",
+        "enmap": "^4.8.1",
+        "mysql": "^2.16.0"
+    }
+}
